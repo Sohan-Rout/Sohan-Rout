@@ -3,13 +3,12 @@
 </div>  
 
 <h1 align="center">Hi 👋, I'm Sohan Rout</h1>
-<h3 align="center">A passionate full stack developer.</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 - 👨‍💻 All of my projects are available at [sohan-dev.netlify.app](sohan-dev.netlify.app)
 
 - 📫 How to reach me **sohanrout84@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
