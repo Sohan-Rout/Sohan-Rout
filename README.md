@@ -3,7 +3,7 @@
 </div>  
 
 <h1 align="center">Hi 👋, I'm Sohan Rout</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer.</h3>
 
 - 👨‍💻 All of my projects are available at [sohan-dev.netlify.app](sohan-dev.netlify.app)
 
