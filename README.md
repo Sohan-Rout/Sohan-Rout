@@ -40,13 +40,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=440&lines=Keep+Building.;Keep+Improving.;Keep+Leveling+Up+💪" />
-</p>
-
----
-
-<h3 align="center" style="font-family: 'Arial', sans-serif; font-size: 1.8em; color: #00bfff;">📊 GitHub Contribution Highlights</h3>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sohan-Rout&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&lines=Keep+Building.;Keep+Improving.;Keep+Leveling+Up+💪" alt="Keep Building, Improving, Leveling Up" />
 </p>
