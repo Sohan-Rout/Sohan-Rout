@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="width: 50%;" />
-</div>  
+  <img src="https://res.cloudinary.com/dmtvg2mj4/image/upload/v1757238095/Black_and_White_Simple_Art_Director_LinkedIn_Banner_gcy4an.gif" width="100%" />
+</div>
 
 ---
 
