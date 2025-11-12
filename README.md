@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,docker,js,ts,nextjs,tailwind,express,nodejs,supabase,npm,vercel" />
+    <img src="https://skillicons.dev/icons?i=git,aws,gcp,docker,js,ts,nextjs,tailwind,express,nodejs,supabase,npm,postgresql,redis" />
   </a>
 </p>
 
