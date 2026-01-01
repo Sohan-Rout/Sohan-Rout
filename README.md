@@ -4,16 +4,6 @@
 
 ---
 
-<p align="center" style="font-family: 'Arial', sans-serif; font-size: 1.2em;">
-  🔭 Currently working on StreamUI and DSAvisualizer<br />
-  🌱 Constantly learning and evolving<br />
-  💬 Ask me about Web Dev, NextJs, or anything techy<br />
-  📫 Reach me at: <a href="mailto:sohanrout84@gmail.com" style="color: #00bfff;">sohanrout84@gmail.com</a><br />
-  🌐 Portfolio: <a href="https://sohan-dev.netlify.app" target="_blank" style="color: #00bfff;">sohan-dev.netlify.app</a>
-</p>
-
----
-
 <h3 align="center" style="font-family: 'Arial', sans-serif; font-size: 1.8em; color: #00bfff;">🛠️ Languages & Tools I Work With:</h3>
 
 <p align="center">
